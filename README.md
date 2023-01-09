@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jack
 
 <!--
 **arlantat/arlantat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👀 I’m interested in building different things, so I can actually know what I care about
+🌱 I’m currently learning Flask and web deployment
+📫 How to reach me nguyenduongthang3@gmail.com
+⚡ Fun fact: arlantat is a randomly generated username, and I like how it sounds.
