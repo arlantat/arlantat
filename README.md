@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀 I’m interested in building different things, so I can actually know what I care about
-- 🌱 I’m currently learning Flask and web deployment
-- 📫 How to reach me nguyenduongthang3@gmail.com
-- ⚡ Fun fact: arlantat is a randomly generated username, and I like how it sounds.
+- 👀 I’m interested in exposing myself to as many areas as possible so as to see where I fit in
+- 🌱 I’m currently learning Web development and Team dynamics
+- 📫 How to reach me: nguyenduongthang3@gmail.com
+- ⚡ Fun fact: arlantat is just a randomly generated username.
