@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👀 I’m interested in AI, newest Technologies, MBTI and Teamfight Tactics
+- 👀 I’m interested in applied AI, newest Technologies, MBTI and Teamfight Tactics
 - 🌱 I’m currently learning Java Web Development and Frameworks
 - 📫 How to reach me: nguyenduongthang3@gmail.com
 - ⚡ Fun fact: arlantat is a randomly generated username - it looks too good to pass up.
